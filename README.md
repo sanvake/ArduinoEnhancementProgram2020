@@ -9,3 +9,7 @@ TinkerCad circuit links have been added to the respective documentation of the C
 
 LCD tutorial:
 https://www.8051projects.net/lcd-interfacing/
+
+Ben Eater's LCD tutorial:
+https://www.youtube.com/watch?v=FY3zTUaykVo&t=931s
+(This is part of his 6502 tutorial series, if interested you guys can also chek that out)
