@@ -5,4 +5,7 @@ I have uploaded all the material that I made and used while presenting for the e
 
 Reference links for all those interested in learning more will also be attached.
 
-TinkerCad circuit links have been added to the respective documentation of the Codes
+TinkerCad circuit links have been added to the respective documentation of the Codes.
+
+LCD tutorial:
+https://www.8051projects.net/lcd-interfacing/
